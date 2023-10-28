@@ -1,4 +1,4 @@
 - Contribute by providing codes related to Data Structures & Algorithms.
-- You may post solutions to problems available on different websites (e.g. LeetCode, GeeksForGooks, etc...)
+- You may post solutions to problems available on different websites (e.g. LeetCode, GeeksForGeeks, etc...)
 - Your program should be executable on standard Java IDEs(e.g. VS Code, IntelliJ IDEA, Netbeans, Eclipse) and should provide correct output.
 - Include the question, date and author of the code in the documentation.
